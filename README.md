@@ -30,8 +30,9 @@
   <a href="https://www.linkedin.com/in/gabrielferlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.tiktok.com/@gabrielferlima" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
 
+    ## Snake eating my contribution graph
 
- 
+ ![snake gif](https://github.com/GabrielFerlima/GabrielFerlima/blob/output/github-contribution-grid-snake.gif)
 
  
 </div>
