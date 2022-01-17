@@ -1,6 +1,6 @@
 ### Olá eu sou o Gabriel fernandes👋 
 
-- 💻 Hoje trabalho com front-end
+- 💻 Desenvolvendo em Front-end
 - 🚀 Estudando Typescript e Reactjs
 - 😊 Conhecimento nunca é demais.
 
