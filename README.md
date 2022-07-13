@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel fernandes👋 
+### Olá eu sou o Gabriel Fernandes👋 
 
 - 💻 Desenvolvendo em Front-end e Back-end
 - 🚀 Estudando Typescript, Javascript, Reactjs, Nodejs, Ruby
