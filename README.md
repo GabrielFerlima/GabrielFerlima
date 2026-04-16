@@ -1,7 +1,7 @@
 ### Olá eu sou o Gabriel Fernandes👋 
 
 - 💻 Desenvolvendo em Front-end e Back-end
-- 🚀 Estudando Typescript, Javascript, Reactjs, Nodejs, Ruby
+- 🚀 Estudando Salesforce, Apex, LWC, Javascript, Reactjs, Nodejs, Ruby
 - 😊 Conhecimento nunca é demais.
 
 <div align="center">
